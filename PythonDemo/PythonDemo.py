@@ -17,3 +17,5 @@ elif a%3 == 1:
     print("a%3 == 1")
 else:
     print("a % 2 == 2")
+
+    a
