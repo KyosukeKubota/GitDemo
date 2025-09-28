@@ -11,7 +11,6 @@ print(t)
 print(a)
 print(b)
 
-
 if a%3 == 0:
     print("a%3 == 0")
 elif a%3 == 1:
